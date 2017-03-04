@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cover: MyString
+  title: MyString
+  manufacturer: MyString
+  genres: MyString
+  type: 
+  date: MyString
+  description: MyString
+  series: MyString
+  subscribers: MyString
+
+two:
+  cover: MyString
+  title: MyString
+  manufacturer: MyString
+  genres: MyString
+  type: 
+  date: MyString
+  description: MyString
+  series: MyString
+  subscribers: MyString
